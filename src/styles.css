@@ -1,0 +1,12 @@
+.App {
+  padding: 4rem;
+}
+.card_container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.search {
+  width: 100%;
+  font-size: 1rem;
+  padding: 1rem;
+}
